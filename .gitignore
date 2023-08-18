@@ -1,4 +1,5 @@
-.exe
+*.exe
 /comp.c
 .tmp.drivedownload/
 .tmp.driveupload/
+.vscode/
